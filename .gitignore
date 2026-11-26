@@ -1,0 +1,9 @@
+Objects/
+Listings/
+*.uvguix.*
+*.hex
+*.bin
+*.o
+*.axf
+*.lst
+*.map
